@@ -144,4 +144,7 @@ nnoremap <leader>P "+P
 vnoremap <leader>p "+p
 vnoremap <leader>P "+P
 
+" Open buffer menu
+nnoremap <Leader>b :CtrlPBuffer<CR>
+
 let g:netrw_list_hide= '*__pycache__$'
